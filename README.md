@@ -1,4 +1,4 @@
-# vim-today
+# Vim Formatted Title
 
 Insert formatted title plugin.
 
@@ -8,7 +8,7 @@ Insert formatted title plugin.
 :FormattedTitle Title
 ```
 
-```vim
+```
 ------ Title -------
 ```
 
